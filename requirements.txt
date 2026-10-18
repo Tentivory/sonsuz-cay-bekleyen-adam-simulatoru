@@ -1,0 +1,7 @@
+# Bu projeyi çalıştırmak için gerekenler:
+# - Python 3.x (veya 2.x, fark etmez, çay yine gelmez)
+# - Sonsuz sabır
+# - Bir fincan (boş olabilir)
+# - Çay (opsiyonel, çünkü gelmeyecek)
+
+# Gerçek pip paketleri yok. Çünkü bu proje kendi kendine yeter.
